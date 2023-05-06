@@ -3,10 +3,10 @@ FROM node:latest
 # 设置各变量
 ARG WSPATH=cl \
     UUID=10974d1a-cbd6-4b6f-db1d-38d78b3fb109 \
-    WEB_DOMAIN=cho.kirito.ninja \
-    ARGO_DOMAIN=cho-ws.kirito.ninja \
-    SSH_DOMAIN=cho-ssh.kirito.ninja \
-    ARGO_AUTH={"AccountTag":"11a8bae7c3ef92c9b549262fde84a2eb","TunnelSecret":"Zt/1mDURSr2NkD1/9x+jsbbTNcWXnd8W7LafwDbnoaU=","TunnelID":"1233f2ab-1e6b-4135-8b58-b2ef641cdf91"} \
+    WEB_DOMAIN=cho2.kirito.ninja \
+    ARGO_DOMAIN=cho-ws2.kirito.ninja \
+    SSH_DOMAIN=cho-ssh2.kirito.ninja \
+    ARGO_AUTH={"AccountTag":"11a8bae7c3ef92c9b549262fde84a2eb","TunnelSecret":"QyxEU7Lmt4FpYiaE0BL5ygqrLgSD+qk/L8jDgVYghGE=","TunnelID":"e4d62e62-1942-47c4-877f-8e96f9e9aa16"} \
     WEB_USERNAME=neu \
     WEB_PASSWORD=114514
 
